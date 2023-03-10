@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt": "photo of v person",
+        "class_prompt": "photo of a person",
+        "instance_data_dir": "./content/data/v",
+        "class_data_dir": "./content/data/person"
+    }
+]
